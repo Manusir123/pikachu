@@ -1,5 +1,5 @@
-/* Copyright (C) 2021 Ameer Suhail
-CODDED Ameer Suhail
+/* Copyright (C) 2021 MANUSIR
+CODDED MANUSIR
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 Pikachu
@@ -25,7 +25,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'Pikachu Bot created by *Ameer Suhail*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'Pikachu Bot created by *MANUSIR*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text);
