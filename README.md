@@ -10,4 +10,4 @@
 
 <div align="center">
     
-## SERVERS WILL BE BSCK ONLINE SOON
+## SERVERS WILL BE BACK ONLINE SOON
